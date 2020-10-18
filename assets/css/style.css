@@ -91,14 +91,10 @@ p {
     color: #ffffff;
 }
 
-.benefit-brand {
+.benefit-brand-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+    
 }
 
 .benefit-lead h3 {
