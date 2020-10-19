@@ -12,3 +12,14 @@ WHEN I view the title element <br>
 THEN I find a concise, descriptive title <br>
 
 
+Home Page: https://github.com/stepheff1994/week1codechallenge
+
+
+<img scr= horiseonscreenshot1.png>
+<img scr= horiseonscreenshot2.png>
+<img scr= horiseonscreenshot3.png>
+<img scr= horiseonscreenshot4.png>
+
+## setup
+
+git clone: git@github.com:stepheff1994/week1codechallenge.git
