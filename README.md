@@ -1,6 +1,8 @@
+#  week1codechallenge
+
 ![license](https://img.shields.io/badge/License-MIT%20License-blue?style=for-the-badge)
 
-# week1codechallenge
+
 GIVEN a webpage meets accessibility standards <br>
 WHEN I view the source code <br>
 THEN I find semantic HTML elements <br>
@@ -20,10 +22,17 @@ HTML and CSS,
 
 Home Page: https://github.com/stepheff1994/week1codechallenge
 
-<img scr= 'horiseon-headerandheroimage.png'>
-<img scr= 'horiseon-content.png'>
-<img scr= 'horiseon-footer'>
 
+## Screenshots
+    
+
+![Header and Hero](horiseon-headerandheroimage.png)
+
+
+![Content](horiseon-content.png)
+    
+
+![Footer](horiseon-footer.png)
 
 ## setup
 
