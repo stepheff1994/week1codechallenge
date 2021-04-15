@@ -1,3 +1,5 @@
+![license](https://img.shields.io/badge/License-MIT%20License-blue?style=for-the-badge)
+
 # week1codechallenge
 GIVEN a webpage meets accessibility standards <br>
 WHEN I view the source code <br>
@@ -11,14 +13,17 @@ THEN they fall in sequential order <br>
 WHEN I view the title element <br>
 THEN I find a concise, descriptive title <br>
 
+## Technologies
+
+HTML and CSS,
+
 
 Home Page: https://github.com/stepheff1994/week1codechallenge
 
+<img scr= 'horiseon-headerandheroimage.png'>
+<img scr= 'horiseon-content.png'>
+<img scr= 'horiseon-footer'>
 
-<img scr= horiseonscreenshot1.png>
-<img scr= horiseonscreenshot2.png>
-<img scr= horiseonscreenshot3.png>
-<img scr= horiseonscreenshot4.png>
 
 ## setup
 
