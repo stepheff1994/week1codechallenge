@@ -17,7 +17,7 @@ THEN I find a concise, descriptive title <br>
 
 ## Technologies
 
-HTML and CSS,
+HTML and CSS
 
 
 Home Page: https://github.com/stepheff1994/week1codechallenge
